@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TTYN2411/Leetcode/tree/master/0002-add-two-numbers) |
 | [2155-find-missing-observations](https://github.com/TTYN2411/Leetcode/tree/master/2155-find-missing-observations) |
 ## Simulation
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TTYN2411/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TTYN2411/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TTYN2411/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
